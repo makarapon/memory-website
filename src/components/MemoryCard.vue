@@ -385,3 +385,4 @@ function computedRotation(idx) {
   color: var(--color-rose);
 }
 </style>
+

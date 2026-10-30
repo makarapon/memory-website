@@ -37,3 +37,4 @@ export const relationshipConfig = {
     signature: "With all my love ♡"
   }
 }
+

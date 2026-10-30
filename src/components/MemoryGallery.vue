@@ -282,3 +282,4 @@ function handleLikeEvent({ id, liked }) {
   color: var(--color-muted-text);
 }
 </style>
+

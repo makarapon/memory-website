@@ -110,3 +110,4 @@ export const memoryCategories = [
   'Adventures',
   'Special Moments'
 ]
+

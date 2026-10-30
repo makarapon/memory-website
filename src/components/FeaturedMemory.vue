@@ -409,3 +409,4 @@ function handleHeartClick(event) {
   color: var(--color-rose);
 }
 </style>
+

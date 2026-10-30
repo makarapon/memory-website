@@ -508,3 +508,4 @@ onUnmounted(() => {
   transform: scale(0.92) translateY(15px);
 }
 </style>
+

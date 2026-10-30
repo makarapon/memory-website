@@ -197,3 +197,4 @@ function handleFooterHeart(event) {
   color: var(--color-muted-text);
 }
 </style>
+

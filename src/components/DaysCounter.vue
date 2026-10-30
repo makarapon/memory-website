@@ -235,3 +235,4 @@ const formattedStartDate = computed(() => {
   animation: heartPulse 2.2s infinite ease-in-out;
 }
 </style>
+
